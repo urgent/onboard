@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+BC Onboard built in reference to [https://github.com/relayjs/relay-examples/tree/master/issue-tracker#about-the-app](Relay with Suspense API)
 
 ## Available Scripts
 
