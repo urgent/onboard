@@ -1,6 +1,6 @@
 # About the App
 
-BC Onboard built in reference to [https://github.com/relayjs/relay-examples/tree/master/issue-tracker#about-the-app](Relay with Suspense API)
+BC Onboard built in reference to [Relay with Suspense API](https://github.com/relayjs/relay-examples/tree/master/issue-tracker#about-the-app)
 
 ## Available Scripts
 
